@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for deeplearning tasks
+Home-page: https://github.com/Baseone111/deeplearning_kidney_tumor_classification
+Author: Baseone111
+Author-email: opiofitson@gmail.com
+Project-URL: Bug Tracker, https://github.com/Baseone111/deeplearning_kidney_tumor_classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# deeplearning_kidney_tumor_classification
+this project is a hands on classification of kidney disease using deep learning
